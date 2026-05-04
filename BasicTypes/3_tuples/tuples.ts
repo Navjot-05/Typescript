@@ -1,0 +1,1 @@
+let details_tuple:[string, number,string,boolean] = ["Navjot Singh",22,"KSP",true];//here we defined type of the array elements before writing them . this is the fixed size and type == tuple [string, number,string,boolean]
