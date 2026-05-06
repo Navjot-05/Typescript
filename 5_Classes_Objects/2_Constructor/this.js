@@ -1,7 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 class Abcd {
-    constructor() {
-        this.name = "harsh";
-    }
+    name = "harsh";
     changeName() {
         console.log(this.name);
     }
@@ -9,5 +9,4 @@ class Abcd {
         console.log("hey");
     }
 }
-// export {};
 //# sourceMappingURL=this.js.map
